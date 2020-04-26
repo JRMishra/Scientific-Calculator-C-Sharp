@@ -1,6 +1,22 @@
 # Scientific-Calculator-C-Sharp
 A scientific calculator built using C# Windows Forms. It also includes the functionality to calculate taxes.
 
+****************************************************************************************************************************************
+IMPORTANT:-
+
+if for some reason the project doesn't work if you load the .sln file for the first time then follow the following steps
+
+1) Remove project under solution by right clicking on it.
+2) Right click on Solution 'Scientific_Calculator_Winforms' & add an existing project.
+3) Browse to the folder containing the project. Double click on it.
+4) Select "Scientific_Calculator_Winforms.csproj" & add it.
+5) Back in visual studio the project will run just fine.
+6) Enjoy coding it as per your preference.
+
+****************************************************************************************************************************************
+
+Features :
+
 ----> This is a very basic Scientific + Tax calculator built using C# Windows Forms.
 It can carry out all basic tasks of a scientific calculator as well.
 Such as sin, cos, tan, power, sqrt, +, - , * , / , Log base 10,
