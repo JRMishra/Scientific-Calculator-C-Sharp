@@ -1,0 +1,10 @@
+C:\Users\zainr\source\repos\Scientific_Calculator_WinForms\Scientific_Calculator_WinForms\bin\Debug\Scientific_Calculator_WinForms.exe.config
+C:\Users\zainr\source\repos\Scientific_Calculator_WinForms\Scientific_Calculator_WinForms\bin\Debug\Scientific_Calculator_WinForms.exe
+C:\Users\zainr\source\repos\Scientific_Calculator_WinForms\Scientific_Calculator_WinForms\bin\Debug\Scientific_Calculator_WinForms.pdb
+C:\Users\zainr\source\repos\Scientific_Calculator_WinForms\Scientific_Calculator_WinForms\obj\Debug\Scientific_Calculator_WinForms.Form1.resources
+C:\Users\zainr\source\repos\Scientific_Calculator_WinForms\Scientific_Calculator_WinForms\obj\Debug\Scientific_Calculator_WinForms.Properties.Resources.resources
+C:\Users\zainr\source\repos\Scientific_Calculator_WinForms\Scientific_Calculator_WinForms\obj\Debug\Scientific_Calculator_WinForms.csproj.GenerateResource.cache
+C:\Users\zainr\source\repos\Scientific_Calculator_WinForms\Scientific_Calculator_WinForms\obj\Debug\Scientific_Calculator_WinForms.csproj.CoreCompileInputs.cache
+C:\Users\zainr\source\repos\Scientific_Calculator_WinForms\Scientific_Calculator_WinForms\obj\Debug\Scientific_Calculator_WinForms.exe
+C:\Users\zainr\source\repos\Scientific_Calculator_WinForms\Scientific_Calculator_WinForms\obj\Debug\Scientific_Calculator_WinForms.pdb
+C:\Users\zainr\source\repos\Scientific_Calculator_WinForms\Scientific_Calculator_WinForms\obj\Debug\Scientific_Calculator_WinForms.csprojAssemblyReference.cache
