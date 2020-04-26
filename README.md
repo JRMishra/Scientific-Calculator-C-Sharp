@@ -1,7 +1,7 @@
 # Scientific-Calculator-C-Sharp
 A scientific calculator built using C# Windows Forms. It also includes the functionality to calculate taxes.
 
-----> This is a very basic tax calculator built using C# Windows Forms.
+----> This is a very basic Scientific + Tax calculator built using C# Windows Forms.
 It can carry out all basic tasks of a scientific calculator as well.
 Such as sin, cos, tan, power, sqrt, +, - , * , / , Log base 10,
 natural log etc.
@@ -26,5 +26,5 @@ zainraza20@gmail.com
 or by making a simple google or a stackoverflow search.
 
 
-----> At the moment I amthe only one responsible for maintaining &
+----> At the moment I am the only one responsible for maintaining &
 contributing to the project.  
